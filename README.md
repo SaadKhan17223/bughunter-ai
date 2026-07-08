@@ -2,7 +2,7 @@
 
 > Stop staring at stack traces. Paste any error from JS, Python, .NET, Java, Go or Rust — get the root cause, a plain-English explanation, and ranked fixes with working code snippets in seconds.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-purple)](https://your-vercel-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-purple)](https://bughunter-ai-mocha.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-blue)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)]()
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange)]()
