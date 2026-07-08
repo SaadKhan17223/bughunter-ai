@@ -29,7 +29,7 @@
 
 ## Running Locally
 
-git clone https://github.com/YOUR_USERNAME/bughunter-ai
+git clone https://github.com/SaadKhan17223/bughunter-ai
 cd bughunter-ai
 npm install
 npm run dev
